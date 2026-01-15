@@ -1,0 +1,6 @@
+{
+  "polymer": "HIPS Contract",
+  "horizon_weeks": 12,
+  "best_model": "DirectTabular",
+  "best_mase": -2.9146808798419213
+}

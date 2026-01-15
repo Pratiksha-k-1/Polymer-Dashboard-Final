@@ -1,0 +1,6 @@
+{
+  "polymer": "GPPS Spot",
+  "horizon_weeks": 11,
+  "best_model": "RecursiveTabular",
+  "best_mase": -1.167054799811022
+}

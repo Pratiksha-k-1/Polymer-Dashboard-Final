@@ -1,0 +1,6 @@
+{
+  "polymer": "PET Bottle Spot",
+  "horizon_weeks": 6,
+  "best_model": "DirectTabular",
+  "best_mase": -2.921412638462616
+}

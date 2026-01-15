@@ -1,0 +1,6 @@
+{
+  "polymer": "LLDPE Spot",
+  "horizon_weeks": 12,
+  "best_model": "DirectTabular",
+  "best_mase": -5.468242271483372
+}

@@ -1,0 +1,6 @@
+{
+  "polymer": "GPPS Contract",
+  "horizon_weeks": 1,
+  "best_model": "SeasonalNaive",
+  "best_mase": -0.4766415135556667
+}

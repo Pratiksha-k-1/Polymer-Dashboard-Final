@@ -1,0 +1,71 @@
+Beginning AutoGluon training... Time limit = 60s
+AutoGluon will save models to '/Users/vinitasable/Documents/ABA Project Seminar/Polymer_Dashboard_project/AutogluonModels/ag-20260114_231038'
+=================== System Info ===================
+AutoGluon Version:  1.5.0
+Python Version:     3.13.3
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 25.1.0: Mon Oct 20 19:34:03 PDT 2025; root:xnu-12377.41.6~2/RELEASE_ARM64_T8112
+CPU Count:          8
+Pytorch Version:    2.9.1
+CUDA Version:       CUDA is not available
+GPU Count:          WARNING: Exception was raised when calculating GPU count (AssertionError)
+Memory Avail:       1.07 GB / 8.00 GB (13.3%)
+Disk Space Avail:   25.18 GB / 228.27 GB (11.0%)
+===================================================
+Setting presets to: medium_quality
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'freq': 'W-FRI',
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 6,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'target',
+ 'time_limit': 60,
+ 'verbosity': 2}
+
+Provided train_data has 83 rows, 1 time series. Median time series length is 83 (min=83, max=83). 
+
+Provided data contains following columns:
+	target: 'target'
+
+AutoGluon will gauge predictive performance using evaluation metric: 'MASE'
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+===================================================
+
+Starting training. Start time is 2026-01-15 00:10:38
+Models that will be trained: ['SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'Chronos2', 'TemporalFusionTransformer']
+Training timeseries model SeasonalNaive. Training for up to 7.5s of the 60.0s of remaining time.
+	-2.7210       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	2.30    s     = Validation (prediction) runtime
+Training timeseries model RecursiveTabular. Training for up to 8.2s of the 57.7s of remaining time.
+	-2.7093       = Validation score (-MASE)
+	0.48    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model DirectTabular. Training for up to 9.5s of the 57.1s of remaining time.
+	-3.4466       = Validation score (-MASE)
+	0.49    s     = Training runtime
+	0.03    s     = Validation (prediction) runtime
+Training timeseries model ETS. Training for up to 11.3s of the 56.6s of remaining time.
+	-2.7210       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	2.29    s     = Validation (prediction) runtime
+Training timeseries model Theta. Training for up to 13.6s of the 54.3s of remaining time.
+	Time limit exceeded... Skipping Theta.
+Training timeseries model Chronos2. Training for up to 18.1s of the 54.3s of remaining time.
+	-3.6478       = Validation score (-MASE)
+	0.85    s     = Training runtime
+	0.44    s     = Validation (prediction) runtime
+Training timeseries model TemporalFusionTransformer. Training for up to 26.5s of the 53.0s of remaining time.
+	-1.5613       = Validation score (-MASE)
+	23.97   s     = Training runtime
+	0.01    s     = Validation (prediction) runtime

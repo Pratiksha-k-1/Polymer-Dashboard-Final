@@ -1,0 +1,6 @@
+{
+  "polymer": "PP Homo Contract",
+  "horizon_weeks": 6,
+  "best_model": "DirectTabular",
+  "best_mase": -2.279652922169981
+}

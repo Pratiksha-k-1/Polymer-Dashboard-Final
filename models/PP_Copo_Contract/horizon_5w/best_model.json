@@ -1,0 +1,6 @@
+{
+  "polymer": "PP Copo Contract",
+  "horizon_weeks": 5,
+  "best_model": "TemporalFusionTransformer",
+  "best_mase": -0.9293167810097229
+}

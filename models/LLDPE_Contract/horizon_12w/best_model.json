@@ -1,0 +1,6 @@
+{
+  "polymer": "LLDPE Contract",
+  "horizon_weeks": 12,
+  "best_model": "DirectTabular",
+  "best_mase": -3.0139030328618936
+}

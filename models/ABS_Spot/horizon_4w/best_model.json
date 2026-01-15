@@ -1,0 +1,6 @@
+{
+  "polymer": "ABS Spot",
+  "horizon_weeks": 4,
+  "best_model": "Theta",
+  "best_mase": -2.6237063380193923
+}

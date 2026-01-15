@@ -1,0 +1,6 @@
+{
+  "polymer": "HD Inj. Contract",
+  "horizon_weeks": 12,
+  "best_model": "RecursiveTabular",
+  "best_mase": -2.967817592731046
+}

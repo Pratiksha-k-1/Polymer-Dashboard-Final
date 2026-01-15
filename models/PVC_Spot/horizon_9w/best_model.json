@@ -1,0 +1,6 @@
+{
+  "polymer": "PVC Spot",
+  "horizon_weeks": 9,
+  "best_model": "TemporalFusionTransformer",
+  "best_mase": -3.4862177919352186
+}

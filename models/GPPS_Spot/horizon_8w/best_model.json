@@ -1,0 +1,6 @@
+{
+  "polymer": "GPPS Spot",
+  "horizon_weeks": 8,
+  "best_model": "SeasonalNaive",
+  "best_mase": -1.9417152939984161
+}

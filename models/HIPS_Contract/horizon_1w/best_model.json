@@ -1,0 +1,6 @@
+{
+  "polymer": "HIPS Contract",
+  "horizon_weeks": 1,
+  "best_model": "SeasonalNaive",
+  "best_mase": -0.4800078496121003
+}

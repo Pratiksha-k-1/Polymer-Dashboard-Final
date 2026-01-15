@@ -1,0 +1,6 @@
+{
+  "polymer": "HD bm Contract",
+  "horizon_weeks": 9,
+  "best_model": "SeasonalNaive",
+  "best_mase": -1.2114001296814512
+}

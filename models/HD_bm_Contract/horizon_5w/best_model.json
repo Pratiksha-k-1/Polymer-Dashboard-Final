@@ -1,0 +1,6 @@
+{
+  "polymer": "HD bm Contract",
+  "horizon_weeks": 5,
+  "best_model": "DirectTabular",
+  "best_mase": -2.4252828052039224
+}

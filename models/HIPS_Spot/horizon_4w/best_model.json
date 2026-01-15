@@ -1,0 +1,6 @@
+{
+  "polymer": "HIPS Spot",
+  "horizon_weeks": 4,
+  "best_model": "DirectTabular",
+  "best_mase": -1.3313687776027823
+}

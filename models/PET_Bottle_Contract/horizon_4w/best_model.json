@@ -1,0 +1,6 @@
+{
+  "polymer": "PET Bottle Contract",
+  "horizon_weeks": 4,
+  "best_model": "DirectTabular",
+  "best_mase": -3.112076003648892
+}

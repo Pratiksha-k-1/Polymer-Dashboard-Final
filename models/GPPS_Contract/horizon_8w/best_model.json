@@ -1,0 +1,6 @@
+{
+  "polymer": "GPPS Contract",
+  "horizon_weeks": 8,
+  "best_model": "DirectTabular",
+  "best_mase": -2.8776296366120353
+}

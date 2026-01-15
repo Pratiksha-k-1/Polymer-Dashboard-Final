@@ -1,0 +1,6 @@
+{
+  "polymer": "R-PET (FGP) Spot",
+  "horizon_weeks": 12,
+  "best_model": "TemporalFusionTransformer",
+  "best_mase": -1.7030657478259073
+}

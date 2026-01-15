@@ -1,0 +1,6 @@
+{
+  "polymer": "PVC Contract",
+  "horizon_weeks": 2,
+  "best_model": "DirectTabular",
+  "best_mase": -0.3963994330999992
+}

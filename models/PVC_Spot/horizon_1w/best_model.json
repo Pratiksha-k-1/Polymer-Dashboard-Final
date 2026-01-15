@@ -1,0 +1,6 @@
+{
+  "polymer": "PVC Spot",
+  "horizon_weeks": 1,
+  "best_model": "SeasonalNaive",
+  "best_mase": -7.673518284940443
+}

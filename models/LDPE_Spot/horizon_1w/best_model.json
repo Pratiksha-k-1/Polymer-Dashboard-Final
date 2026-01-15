@@ -1,0 +1,6 @@
+{
+  "polymer": "LDPE Spot",
+  "horizon_weeks": 1,
+  "best_model": "SeasonalNaive",
+  "best_mase": -2.4911824104552145
+}

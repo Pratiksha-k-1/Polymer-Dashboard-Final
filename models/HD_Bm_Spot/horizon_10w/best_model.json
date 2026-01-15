@@ -1,0 +1,6 @@
+{
+  "polymer": "HD Bm Spot",
+  "horizon_weeks": 10,
+  "best_model": "SeasonalNaive",
+  "best_mase": -3.472147715365864
+}

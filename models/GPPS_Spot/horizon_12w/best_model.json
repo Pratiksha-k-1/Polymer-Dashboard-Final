@@ -1,0 +1,6 @@
+{
+  "polymer": "GPPS Spot",
+  "horizon_weeks": 12,
+  "best_model": "TemporalFusionTransformer",
+  "best_mase": -1.4166868319829276
+}

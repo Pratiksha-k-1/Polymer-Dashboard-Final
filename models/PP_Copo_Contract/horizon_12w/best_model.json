@@ -1,0 +1,6 @@
+{
+  "polymer": "PP Copo Contract",
+  "horizon_weeks": 12,
+  "best_model": "DirectTabular",
+  "best_mase": -5.904665764438392
+}

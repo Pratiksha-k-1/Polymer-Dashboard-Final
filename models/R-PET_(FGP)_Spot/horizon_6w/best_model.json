@@ -1,0 +1,6 @@
+{
+  "polymer": "R-PET (FGP) Spot",
+  "horizon_weeks": 6,
+  "best_model": "DirectTabular",
+  "best_mase": -2.9884465177930117
+}

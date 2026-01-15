@@ -1,0 +1,6 @@
+{
+  "polymer": "LDPE Contract",
+  "horizon_weeks": 4,
+  "best_model": "TemporalFusionTransformer",
+  "best_mase": -1.1397115818742007
+}

@@ -1,0 +1,6 @@
+{
+  "polymer": "PP Homo Spot",
+  "horizon_weeks": 3,
+  "best_model": "DirectTabular",
+  "best_mase": -0.5874568174455804
+}

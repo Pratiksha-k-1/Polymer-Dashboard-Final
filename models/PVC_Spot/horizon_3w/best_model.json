@@ -1,0 +1,6 @@
+{
+  "polymer": "PVC Spot",
+  "horizon_weeks": 3,
+  "best_model": "DirectTabular",
+  "best_mase": -3.3499244534231116
+}

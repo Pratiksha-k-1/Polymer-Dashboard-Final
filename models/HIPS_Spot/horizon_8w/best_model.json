@@ -1,0 +1,6 @@
+{
+  "polymer": "HIPS Spot",
+  "horizon_weeks": 8,
+  "best_model": "SeasonalNaive",
+  "best_mase": -1.8225732128232432
+}

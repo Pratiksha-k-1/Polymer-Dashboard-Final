@@ -1,0 +1,6 @@
+{
+  "polymer": "PP Copo Spot",
+  "horizon_weeks": 10,
+  "best_model": "DirectTabular",
+  "best_mase": -1.616393790280513
+}

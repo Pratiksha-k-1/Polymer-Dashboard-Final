@@ -1,0 +1,6 @@
+{
+  "polymer": "ABS Spot",
+  "horizon_weeks": 9,
+  "best_model": "DirectTabular",
+  "best_mase": -3.7270987064875567
+}

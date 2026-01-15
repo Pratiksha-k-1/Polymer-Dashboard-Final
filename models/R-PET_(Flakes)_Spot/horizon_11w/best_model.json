@@ -1,0 +1,6 @@
+{
+  "polymer": "R-PET (Flakes) Spot",
+  "horizon_weeks": 11,
+  "best_model": "DirectTabular",
+  "best_mase": -3.1855193354334745
+}
